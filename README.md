@@ -139,4 +139,4 @@ difference is `puppeteer_plus` imports TypeScript version while `deno-puppeteer`
 is using JavaScript with types.
 
 This project will definitely not exists without the great work of
-[Puppeteer](https://github.com/puppeteer/puppeteer) prject.
+[Puppeteer](https://github.com/puppeteer/puppeteer) project.
